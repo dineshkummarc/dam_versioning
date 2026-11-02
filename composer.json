@@ -11,6 +11,7 @@
         "laravel/jetstream": "^5.1",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
+        "league/commonmark": "^2.10",
         "livewire/livewire": "^3.0",
         "lorisleiva/laravel-actions": "^2.8",
         "php-ffmpeg/php-ffmpeg": "^1.3",
